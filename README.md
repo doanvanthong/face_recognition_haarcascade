@@ -4,7 +4,7 @@ USAGE:
 	
 1. RUN preprocessing.py  #when adding a class or person to be recognized
 
-	In raspberrypi/linux , click terminal and type:
+	In raspberrypi / linux , click terminal and type:
 	
 	    python3 preprocessing.py
 	    
@@ -15,7 +15,7 @@ USAGE:
 	
 2. RUN face_recog.py   #  for realtime face recognition
 
-	In raspberrypi/linux , click terminal and type:
+	In raspberrypi / linux , click terminal and type:
 	
 	    python3 face_recog.py
 	    
@@ -29,7 +29,7 @@ Enjoy!
 
 # Requirement :
  Make sure you have install pip on your system.
-1. Opencv # on your terminal/cmd type:
+1. Opencv # on your terminal / cmd type:
 
 	pip3 install opencv-contrib-python 
  
