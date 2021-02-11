@@ -3,9 +3,13 @@ USAGE:
 
 	
 1. RUN preprocessing.py  #when adding a class or person to be recognized
-    In raspberrypi/linux , click terminal and type:
+
+	In raspberrypi/linux , click terminal and type:
+	
 	    python3 preprocessing.py
+	    
 	In windows click cmd and type :
+	
 	    python3 preprocessing.py
 	
 	
