@@ -53,7 +53,6 @@ while count < count_max:
     faces = haar_cascade.detectMultiScale(mini)
 
     # We only consider largest face
-    print("faces",type(faces))
     faces = sorted(faces, key=lambda x: x[3])
     if faces:
         face_i = faces[0]
