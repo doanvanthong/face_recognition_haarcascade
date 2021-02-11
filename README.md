@@ -27,8 +27,8 @@ Note : This can also  be run in any raspberrypi board ,recommended ,a raspberryp
 
 Enjoy!
 
-Requirements :
-# make sure you have install pip on your system.
+# Requirements :
+# Make sure you have install pip on your system.
 1. Opencv # on your terminal/cmd type:
 
 	pip3 install opencv-contrib-python 
