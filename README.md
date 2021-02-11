@@ -1,8 +1,10 @@
 # Face-Recognition
 USAGE:
 
-	
-1. RUN preprocessing.py  #when adding a class or person to be recognized
+1. Create an empty folder named images in your working directory.(For First run only)
+	check video on how to. Link 
+
+2. RUN preprocessing.py  #when adding a class or person to be recognized
 
 	In raspberrypi / linux , click terminal and type:
 	
@@ -13,7 +15,7 @@ USAGE:
 	    python3 preprocessing.py
 	
 	
-2. RUN face_recog.py   #  for realtime face recognition
+3. RUN face_recog.py   #  for realtime face recognition
 
 	In raspberrypi / linux , click terminal and type:
 	
