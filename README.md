@@ -3,7 +3,7 @@ USAGE:
 
 1. Create an empty folder named images in your working directory.(For First run only)
 
-	check video on how to. Link 
+	check video on how to. Link https://youtu.be/teoixQbN51s
 
 2. RUN preprocessing.py  #when adding a class or person to be recognized
 
