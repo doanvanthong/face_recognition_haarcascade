@@ -26,7 +26,7 @@ Move your head around to increase while it runs.\033[0m\n")
 # The program loops until it has 20 images of the face.
 count = 0
 pause = 0
-count_max = 20   # desired number of sample per class
+count_max = 40   # desired number of sample per class
 while count < count_max:
 
     # Loop until the camera is working
