@@ -1,5 +1,5 @@
 import cv2, sys, numpy, os,time
-size = 2
+size = 2 # change this to 4 to speed up processing trade off is the accuracy
 classifier = 'haarcascade_frontalface_default.xml'
 image_dir = 'images'
 print("Face Recognition Starting ...")
