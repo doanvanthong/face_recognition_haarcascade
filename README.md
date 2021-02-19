@@ -1,9 +1,10 @@
 # Face-Recognition
 USAGE:
-
+BROWSER FACE RECOGNITION : https://youtu.be/pV53F51QXyU   YOU MUST RUN FIRST THE FACE RECOGNITION STANDARD BELOW
+FACE RECOGNITION STANDARD: https://youtu.be/teoixQbN51s 
 1. Create an empty folder named images in your working directory.(For First run only)
 
-	check video on how to. Link https://youtu.be/teoixQbN51s
+  
 
 2. RUN preprocessing.py  #when adding a class or person to be recognized
 
