@@ -3,6 +3,9 @@ USAGE:
 
 BROWSER FACE RECOGNITION : https://youtu.be/pV53F51QXyU  must run succesfully the face recognition standard below
 
+
+##############################################
+
 FACE RECOGNITION STANDARD: https://youtu.be/teoixQbN51s 
 
 1. Create an empty folder named images in your working directory.(For First run only)
@@ -40,3 +43,6 @@ Enjoy!
 
 	pip3 install opencv-contrib-python 
  
+2. Flask
+
+        pip3 install flask
