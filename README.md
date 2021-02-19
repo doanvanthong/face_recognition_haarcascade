@@ -1,7 +1,7 @@
 # Face-Recognition
 USAGE:
 
-BROWSER FACE RECOGNITION : https://youtu.be/pV53F51QXyU   YOU MUST RUN FIRST THE FACE RECOGNITION STANDARD BELOW
+BROWSER FACE RECOGNITION : https://youtu.be/pV53F51QXyU  must run succesfully the face recognition standard below
 
 FACE RECOGNITION STANDARD: https://youtu.be/teoixQbN51s 
 
